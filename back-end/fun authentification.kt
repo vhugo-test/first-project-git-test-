@@ -3,5 +3,6 @@ fun authentification(name: String){
         println(thow authentificationException)
     }else{ 
         println("Bem vindo")
+        println("Você foi logado com sucesso")
     }
 }
