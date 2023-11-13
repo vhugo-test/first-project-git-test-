@@ -6,3 +6,9 @@ fun authentification(name: String){
         println("Você foi logado com sucesso")
     }
 }
+
+fun criandoOutraFun(name: String){ 
+    for(letter in name){ 
+        println(letter)
+    }
+}
