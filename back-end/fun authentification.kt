@@ -5,4 +5,5 @@ fun authentification(name: String){
         println("Bem vindo")
         println("Você foi logado com sucesso")
     }
+    println("Teste de authentificação")
 }
